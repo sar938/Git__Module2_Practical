@@ -1,0 +1,2 @@
+This is my Module 2 Git practical assignment.
+I am practising branch creation, staging and committing in Git.
